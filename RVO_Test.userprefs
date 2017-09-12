@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{04F3CE50-860B-3643-9173-2739479E2330}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PathFinder.cs">
+    <Files>
+      <File FileName="Assets/GameManager.cs" Line="24" Column="19" />
+      <File FileName="Assets/BallManager.cs" Line="10" Column="48" />
+      <File FileName="Assets/Scripts/behaviac/runtime/Agent/Agent.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/behaviac/runtime/Agent/Context.cs" Line="308" Column="34" />
+      <File FileName="Assets/PathFinder.cs" Line="149" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RVO__Test PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
